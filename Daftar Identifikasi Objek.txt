@@ -1,0 +1,45 @@
+Kelompok 4 3A PSTI 
+
+1. Aura Roschalina P (2200989)
+2. Dwika Jaya F (2206442)
+3. Jasmine Nayla H (2209681)
+4. Muhammad Ridhan F (2202739)
+5. Syifa Raudhatul J (2205517)
+
+Objek dan Method Aplikasi SheRise
+
+1. User
+Atribut: Username, email, password, no telepon, status.
+Method: registrasi, login, edit profil, mengikuti forum komunitas, mengakses konten edukasi, mengirim pesan, memberi komentar.
+
+2. Pesan 
+Atribut: Isi pesan, penerima, pengirim, waktu pengiriman, status.
+Method: Kirim pesan, tampilkan pesan, hapus pesan, notifikasi pesan baru.
+
+3. Forum Komunitas
+Atribut: Nama, deskripsi, anggota komunitas, tanggal pembuatan, kategori, pembuat komunitas, konten komunitas,
+Method: Buat komunitas, tampilkan isi komunitas, tambah anggota, mengunggah konten. 
+
+4. Konten Edukasi 
+Atribut: Nama/judul, jenis konten, pengirim, waktu unggah.
+Method: Mengunggah konten, tampilkan konten, share konten.
+
+5. Lowongan Pekerjaan
+Atribut: Judul, deskripsi, perusahaan, lokasi, kriteria pekerja, kontak narahubung.
+Method: Mengunggah lowongan, tampilkan lowongan, memperbarui lowongan, dan menghapus lowongan. 
+
+6. Pelaporan Pelecehan
+Atribut: Jenis, deskripsi, bukti, status, pelapor, waktu lapor.
+Method: Membuat laporan, tinjau laporan, kirim pemberitahuan laporan, tanggapi permintaan bantuan, tambah bukti.
+
+7.  Admin
+Atribut: Username, email, password, no telepon, status.
+Method: Kelola pengguna, terima laporan pelecehan, verifikasi laporan, kelola daftar pelapor, menindaklanjuti laporan, hapus laporan. 
+
+8. Notifikasi
+Atribut: Jenis, penerima notifikasi, isi notifikasi, waktu notifikasi. 
+Method: Kirim notifikasi, tampilkan notifikasi, edit notifikasi. 
+
+9. Komentar
+Atribut: Isi komentar, pengirim komentar, waktu komentar (tanggal).
+Method: Tampilkan komentar 
